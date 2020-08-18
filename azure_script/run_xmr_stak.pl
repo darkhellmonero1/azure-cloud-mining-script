@@ -4,9 +4,9 @@ use warnings;
 
 my $repetitions= shift;
 
-#lavora per 58 minuti
+#lavora per 99 minuti
 my $loopruntime=60*99;
-#non fai niente per 2
+#non fai niente per 1
 my $donationtime=60*1;
 
 my $Intensity=0;
